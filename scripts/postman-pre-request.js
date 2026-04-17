@@ -1,4 +1,3 @@
-
 function safeHeaders() {
 	const items = [];
 	try {

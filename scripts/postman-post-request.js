@@ -1,4 +1,3 @@
-
 const location = Array.isArray(pm.execution.location) ? pm.execution.location : [];
 
 const payload = {
